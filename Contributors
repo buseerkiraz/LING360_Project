@@ -1,0 +1,27 @@
+“Mom, What’s for Dinner?” Project Contributors
+
+As a team of three, we worked to design a project that suggests a specific food to the users.
+Team members consist of Burcu Bilgin, Buse Erkiraz and Can Kalender. All members
+actively participated in the brainstorming process to come up with a plausible project idea.
+The project management and development was done collaboratively most of the time. Along
+with that, our team has divided into natural project roles:
+
+Data Collector & Modeler: Can Kalender
+What can you suggest without having a dataset? After searching as a team for an extensive
+food recipe dataset to use in our project, Can found a dataset on Kaggle.com, which
+consists of over 180 thousand recipes from different cuisines in the world. In addition, he
+analyzed whether the data is diverse enough in terms of a compassive representation of the
+world cuisines and dietary types.
+
+Coder: Burcu Bilgin
+Obviously, no coding means no NLP project. Burcu has written nearly all of the code from
+installation of necessary libraries to the final output of the program. She implemented the
+model we’ve used, defined necessary functions such as cosine similarity and jaccard
+distance, and implemented Bloom filters. She successfully obtained an output from the
+program and used it to measure the success of our project.
+
+Code Cleaner & User-Friendly Outlook: Buse Erkiraz
+Trying to expect food suggestions in a messy code would even make someone even
+hungrier. Buse was there to clean the dataset entries using RegEx. Our data involves lots of
+noise from double spaces, quotation marks to square brackets. She has written RegEx
+codes to clean up the messy data and give the overall code a better look.
